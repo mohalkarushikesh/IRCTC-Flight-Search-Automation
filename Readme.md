@@ -1,13 +1,13 @@
-content = """
-RCTC Flight Search automation
-Case Study: IRCTC Flight Search automation 
+# RCTC Flight Search Automation
 
-Problem Statement:   
+## Case Study: IRCTC Flight Search Automation 
+
+### Problem Statement:   
 IRCTC Flight Search automation 
 Get the list of flights available today from Hyderabad to Pune. 
 Suggested site: https://www.air.irctc.co.in/ 
 
-Detailed description: 
+### Detailed Description: 
 Launch https://www.air.irctc.co.in/ in a web browser, and verify the appropriate site is opened or not. 
 Maximize the window and verify the respective application is opened or not 
 Enter "Hyd" in “From” city, in the auto listed results, select "HYDERABAD (HYD)"  
@@ -19,13 +19,14 @@ Verify the results shown are valid, by checking the city and date values are sam
 Display the name and Number of available Flights on the console 
 Capture the results screenshot and save in the project folder. 
 Close the Application. 
-Key Automation Scope:
-Multi Browser automation (Chrome and Firefox)
-Extract multiple options items & store in arrays or collections
-Filling form (in different objects in web page)
-Capture results, warning or error messages
-Handle bootstrap dropdown elements
-Validating results
+
+### Key Automation Scope:
+- Multi Browser automation (Chrome and Firefox)
+- Extract multiple options items & store in arrays or collections
+- Filling form (in different objects in web page)
+- Capture results, warning or error messages
+- Handle bootstrap dropdown elements
+- Validating results
 
 ---------------------------------------------------------------output-----------------------------------------------------------
 Enter the browser type (Chrome or Edge): chrome
@@ -45,5 +46,3 @@ Vistara UK-890/973
 Air India AI-872/841
 Vistara UK-541/935
 Number of available Flights: 6
-
-"""
