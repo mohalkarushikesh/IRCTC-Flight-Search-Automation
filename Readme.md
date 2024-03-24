@@ -5,7 +5,7 @@
 ### Problem Statement:   
 IRCTC Flight Search automation \
 Get the list of flights available today from Hyderabad to Pune. \
-Suggested site: https://www.air.irctc.co.in/ \
+Suggested site: https://www.air.irctc.co.in/ 
 
 ### Detailed Description: 
 Launch https://www.air.irctc.co.in/ in a web browser, and verify the appropriate site is opened or not. \
@@ -18,7 +18,7 @@ Click on "Search" button. \
 Verify the results shown are valid, by checking the city and date values are same as given in previous page. \
 Display the name and Number of available Flights on the console \
 Capture the results screenshot and save in the project folder. \
-Close the Application. \
+Close the Application. 
 
 ### Key Automation Scope:
 - Multi Browser automation (Chrome and Firefox)
@@ -45,4 +45,4 @@ Vistara UK-890/935 \
 Vistara UK-890/973 \
 Air India AI-872/841 \
 Vistara UK-541/935 \
-Number of available Flights: 6 \
+Number of available Flights: 6 
