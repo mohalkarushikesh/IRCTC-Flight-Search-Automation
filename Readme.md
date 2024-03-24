@@ -28,7 +28,7 @@ Close the Application.
 - Handle bootstrap dropdown elements
 - Validating results
 
----------------------------------------------------------------output-----------------------------------------------------------
+### Output
 Enter the browser type (Chrome or Edge): chrome
 Yes, appropriate site is opened!
 Maximized the window, and respective application is opened!
