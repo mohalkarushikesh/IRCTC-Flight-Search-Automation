@@ -1,4 +1,4 @@
-# RCTC Flight Search Automation
+# IRCTC Flight Search Automation
 
 ## Case Study: IRCTC Flight Search Automation 
 
